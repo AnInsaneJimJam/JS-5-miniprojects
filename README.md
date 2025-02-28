@@ -1,0 +1,1 @@
+5 JS mini projects to learn integrating HTML, CSS, JS, and Git
